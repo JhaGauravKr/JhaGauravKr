@@ -1,4 +1,4 @@
-<h1>Aspiring Software Developer | AI & ML Enthusiast | Final-Year CSE (AIML) Student</h1>
+<h1>Aspiring Software Developer | AI & ML Enthusiast</h1>
 <p>Passionate about building intelligent systems that bridge research and real-world impact. Skilled in Python, AI/ML, Java with a focus on purposeful innovation.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
